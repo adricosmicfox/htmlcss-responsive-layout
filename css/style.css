@@ -34,6 +34,7 @@ button {
 
 .blue-icon {
     color: rgb(45, 131, 245);
+    margin-bottom: 25px;
 }
 
 .central-margin {
@@ -85,7 +86,7 @@ nav>img {
 
 }
 
-h3 {
+.blue-card>h3 {
     color: rgb(45, 131, 245);
     margin-top: 15px;
     margin-bottom: 15px;
@@ -117,7 +118,9 @@ h3 {
     background-color: #9593E6;
     max-width: 100%;
     padding-top: 20%;
+    padding-bottom: 20%;
     margin-top: 20%;
+
 }
 
 .white-card {
@@ -138,8 +141,28 @@ h3 {
     border-radius: 50px;
 }
 
+#strategic>h2 {
+    font-size: 30px;
+    color: white;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
 
+#strategic>p {
+    color: white;
+    margin-bottom: 2rem;
+}
 
+.development>h2 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.development>p {
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
 
 
 
@@ -149,6 +172,13 @@ h3 {
     background-color: #9593E6;
     color: white;
     border-radius: 50px;
+    text-align: center;
+}
+
+.lilac-card>p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    line-height: 30px;
 }
 
 .lilac-card>h2 {
@@ -159,6 +189,33 @@ h3 {
     clip-path: circle(39%);
     max-width: 100%;
 }
+
+.testimonials {
+    text-align: center;
+}
+
+.testimonials>h2 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #9593E6;
+    font-size: 26px;
+}
+
+.testimonials>h3 {
+    font-weight: 400;
+}
+
+.testimonials>p {
+    line-height: 30px;
+}
+
+
+
+
+/******** second middle lilac section  *********/
+
+
+
 
 
 
