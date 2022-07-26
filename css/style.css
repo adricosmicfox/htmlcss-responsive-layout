@@ -213,7 +213,46 @@ nav>img {
 
 
 /******** second middle lilac section  *********/
+#benefits {
+    color: white;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 4rem;
+}
 
+.numbered-card {
+    border-radius: 20px;
+}
+
+.numbered-card>h2 {
+    color: #9593E6;
+    font-size: 45px;
+    margin-left: 0;
+    margin-bottom: 1rem;
+}
+
+.numbered-card>h3 {
+    color: #9593E6;
+    margin-left: 0;
+    margin-bottom: 1rem;
+    font-size: 23px;
+}
+
+.numbered-card>p {
+    margin-bottom: 1.5rem;
+    line-height: 25px;
+}
+
+.lilac-button {
+    margin-left: 0;
+    background-color: #9593E6;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 5px;
+}
+
+
+/******** second middle white section  *********/
 
 
 
